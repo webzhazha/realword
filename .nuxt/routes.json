@@ -1,0 +1,52 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\777\\\\Desktop\\\\nuxtjsDemo\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "C:\\\\Users\\\\777\\\\Desktop\\\\nuxtjsDemo\\\\pages\\\\home",
+        "_name": "_43db8eb4"
+      },
+      {
+        "path": "login",
+        "name": "login",
+        "component": "C:\\\\Users\\\\777\\\\Desktop\\\\nuxtjsDemo\\\\pages\\\\login",
+        "_name": "_37ce9034"
+      },
+      {
+        "path": "register",
+        "name": "register",
+        "component": "C:\\\\Users\\\\777\\\\Desktop\\\\nuxtjsDemo\\\\pages\\\\login",
+        "_name": "_37ce9034"
+      },
+      {
+        "path": "profile/:username",
+        "name": "profile",
+        "component": "C:\\\\Users\\\\777\\\\Desktop\\\\nuxtjsDemo\\\\pages\\\\profile",
+        "_name": "_579223b4"
+      },
+      {
+        "path": "settings",
+        "name": "settings",
+        "component": "C:\\\\Users\\\\777\\\\Desktop\\\\nuxtjsDemo\\\\pages\\\\settings",
+        "_name": "_2bf26378"
+      },
+      {
+        "path": "editor",
+        "name": "editor",
+        "component": "C:\\\\Users\\\\777\\\\Desktop\\\\nuxtjsDemo\\\\pages\\\\editor",
+        "_name": "_9510cbfc"
+      },
+      {
+        "path": "article/:slug",
+        "name": "article",
+        "component": "C:\\\\Users\\\\777\\\\Desktop\\\\nuxtjsDemo\\\\pages\\\\article",
+        "_name": "_3e5c6701"
+      }
+    ],
+    "_name": "_7d731882"
+  }
+]
